@@ -6,3 +6,5 @@
   * [Solution](https://leetcode.com/problems/merge-strings-alternately/solutions/6024205/merging-two-strings-alternately-with-optimized-character-appending-python3)
 * [Find the Difference](https://leetcode.com/problems/find-the-difference/description/)
   * [Solution](https://leetcode.com/problems/find-the-difference/solutions/6096293/efficient-character-difference-detection-using-frequency-counters-python3)
+* [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+  * [Solution](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/6096380/efficient-substring-search-using-python-s-built-in-methods) 
